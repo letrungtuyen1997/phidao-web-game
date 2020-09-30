@@ -1,0 +1,27 @@
+
+event.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+noticeEvent
+  rotate: false
+  xy: 2, 2
+  size: 215, 76
+  orig: 215, 76
+  offset: 0, 0
+  index: -1
+titleBody
+  rotate: false
+  xy: 2, 80
+  size: 686, 920
+  orig: 686, 920
+  offset: 0, 0
+  index: -1
+titleHeader
+  rotate: false
+  xy: 690, 844
+  size: 686, 156
+  orig: 686, 156
+  offset: 0, 0
+  index: -1

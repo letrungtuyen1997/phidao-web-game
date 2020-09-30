@@ -1,0 +1,111 @@
+
+infor.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+avatar
+  rotate: false
+  xy: 690, 1530
+  size: 128, 118
+  orig: 128, 118
+  offset: 0, 0
+  index: -1
+btn1
+  rotate: false
+  xy: 450, 543
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btn1Off
+  rotate: false
+  xy: 2, 103
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btn2
+  rotate: false
+  xy: 2, 187
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btn2Off
+  rotate: false
+  xy: 218, 187
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btn3
+  rotate: false
+  xy: 690, 1650
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btn3Off
+  rotate: false
+  xy: 450, 459
+  size: 214, 82
+  orig: 214, 82
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 2, 2
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+frmTitle
+  rotate: false
+  xy: 2, 627
+  size: 686, 149
+  orig: 686, 149
+  offset: 0, 0
+  index: -1
+frmWhite
+  rotate: false
+  xy: 2, 778
+  size: 686, 1103
+  orig: 686, 1103
+  offset: 0, 0
+  index: -1
+frmWhiteInfor
+  rotate: false
+  xy: 2, 324
+  size: 446, 301
+  orig: 446, 301
+  offset: 0, 0
+  index: -1
+lineBrown
+  rotate: false
+  xy: 450, 450
+  size: 212, 7
+  orig: 212, 7
+  offset: 0, 0
+  index: -1
+lineWhite
+  rotate: false
+  xy: 2, 271
+  size: 720, 7
+  orig: 720, 7
+  offset: 0, 0
+  index: -1
+noticeInfo
+  rotate: false
+  xy: 2, 280
+  size: 419, 42
+  orig: 419, 42
+  offset: 0, 0
+  index: -1
+regionDF
+  rotate: false
+  xy: 690, 1734
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: -1

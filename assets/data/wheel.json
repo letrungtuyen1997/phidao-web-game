@@ -1,0 +1,142 @@
+[
+  {
+    "region": "icon0",
+    "id": 0,
+    "quantity": 0,
+    "percent": 500,
+    "pos": 0
+  },
+  {
+    "region": "icon1",
+    "id": 1,
+    "quantity": 1,
+    "percent": 500,
+    "pos": 9
+  },
+  {
+    "region": "icon2",
+    "id": 2,
+    "quantity": 2,
+    "percent": 500,
+    "pos": 2
+  },
+  {
+    "region": "icon3",
+    "id": 3,
+    "quantity": 3,
+    "percent": 500,
+    "pos": 3
+  },
+  {
+    "region": "icon4",
+    "id": 4,
+    "quantity": 4,
+    "percent": 500,
+    "pos": 4
+  },
+  {
+    "region": "icon5",
+    "id": 5,
+    "quantity": 5,
+    "percent": 500,
+    "pos": 5
+  },
+  {
+    "region": "icon6",
+    "id": 6,
+    "quantity": 6,
+    "percent": 500,
+    "pos": 6
+  },
+  {
+    "region": "icon7",
+    "id": 7,
+    "quantity": 7,
+    "percent": 500,
+    "pos": 7
+  },
+  {
+    "region": "icon8",
+    "id": 8,
+    "quantity": 8,
+    "percent": 500,
+    "pos": 8
+  },
+  {
+    "region": "icon9",
+    "id": 9,
+    "quantity": 9,
+    "percent": 500,
+    "pos": 1
+  },
+  {
+    "region": "icon10",
+    "id": 10,
+    "quantity": 10,
+    "percent": 500,
+    "pos": 15
+  },
+  {
+    "region": "icon11",
+    "id": 11,
+    "quantity": 11,
+    "percent": 500,
+    "pos": 11
+  },
+  {
+    "region": "icon12",
+    "id": 12,
+    "quantity": 12,
+    "percent": 500,
+    "pos": 12
+  },
+  {
+    "region": "icon13",
+    "id": 13,
+    "quantity": 13,
+    "percent": 500,
+    "pos": 13
+  },
+  {
+    "region": "icon14",
+    "id": 14,
+    "quantity": 14,
+    "percent": 500,
+    "pos": 14
+  },
+  {
+    "region": "icon15",
+    "id": 15,
+    "quantity": 15,
+    "percent": 500,
+    "pos": 10
+  },
+  {
+    "region": "icon16",
+    "id": 16,
+    "quantity": 16,
+    "percent": 500,
+    "pos": 16
+  },
+  {
+    "region": "icon17",
+    "id": 17,
+    "quantity": 17,
+    "percent": 500,
+    "pos": 17
+  },
+  {
+    "region": "icon18",
+    "id": 18,
+    "quantity": 18,
+    "percent": 500,
+    "pos": 18
+  },
+  {
+    "region": "icon19",
+    "id": 19,
+    "quantity": 19,
+    "percent": 500,
+    "pos": 19
+  }
+]

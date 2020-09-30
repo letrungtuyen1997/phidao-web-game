@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width, user-scalable=no, minimal-ui">
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="full-screen" content="yes"/>
+  <meta name="screen-orientation" content="landscape"/>
+
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  
+  <!--div id="debugbar">f</div-->
+  <!-- build:js -->
+  <script src="jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://connect.facebook.net/en_US/fbinstant.6.2.js"></script>
+  <!-- endbuild -->
+
+  <script src="scripts/sound.js"></script>
+  <script src="scripts/fbinstant.js"></script>
+  <script src="scripts/otherfunctions.js"></script>
+  <script src="scripts/dailyreward.js"></script>
+  <script type="text/javascript">
+
+    window.onload = function() {
+      FBInstant.initializeAsync().then(function() {
+
+        document.getElementById('embed-html').addEventListener('mousedown', handleMouseDown, false);
+        document.getElementById('embed-html').addEventListener('mouseup', handleMouseUp, false);
+      
+      });
+    };
+
+    function handleMouseDown(evt) {
+      evt.preventDefault();
+      evt.stopPropagation();
+      evt.target.style.cursor = 'default';
+      window.focus();
+      window.blur();
+      //console.log("test1");
+    }
+
+    function handleMouseUp(evt) {
+      evt.preventDefault();
+      evt.stopPropagation();
+      evt.target.style.cursor = '';
+      window.focus();
+      window.blur();
+    }
+    function jsResize(){
+      return false;
+    }
+
+  </script>
+  <div align="center" id="embed-html"></div>
+ <script type="text/javascript" src="html/html.nocache.js"></script>
+ <style>
+  @media screen {
+  html {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+}
+
+</body>
+</html>
