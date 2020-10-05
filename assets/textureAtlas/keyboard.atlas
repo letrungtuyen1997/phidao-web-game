@@ -1,0 +1,76 @@
+
+keyboard.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn1
+  rotate: false
+  xy: 1237, 174
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn1On
+  rotate: false
+  xy: 955, 174
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn2
+  rotate: false
+  xy: 1519, 174
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn2On
+  rotate: false
+  xy: 635, 114
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btnInput
+  rotate: false
+  xy: 436, 43
+  size: 187, 67
+  orig: 187, 67
+  offset: 0, 0
+  index: -1
+iconClock
+  rotate: false
+  xy: 1851, 207
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+iconMacode
+  rotate: false
+  xy: 1801, 206
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+input
+  rotate: false
+  xy: 2, 2
+  size: 432, 108
+  orig: 432, 108
+  offset: 0, 0
+  index: -1
+noticeAddturn
+  rotate: false
+  xy: 635, 196
+  size: 318, 58
+  orig: 318, 58
+  offset: 0, 0
+  index: -1
+tuto
+  rotate: false
+  xy: 2, 112
+  size: 631, 142
+  orig: 631, 142
+  offset: 0, 0
+  index: -1
