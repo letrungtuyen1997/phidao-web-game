@@ -6,7 +6,7 @@ filter: Nearest,Nearest
 repeat: none
 100k
   rotate: false
-  xy: 2002, 1319
+  xy: 1975, 1221
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -20,7 +20,7 @@ repeat: none
   index: -1
 15Tr
   rotate: false
-  xy: 1975, 1123
+  xy: 1975, 1025
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -41,7 +41,7 @@ repeat: none
   index: -1
 500k
   rotate: false
-  xy: 2002, 1417
+  xy: 1932, 1305
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -55,7 +55,7 @@ repeat: none
   index: -1
 5Tr
   rotate: false
-  xy: 1975, 1025
+  xy: 2002, 1319
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -69,21 +69,21 @@ Effect
   index: -1
 Ip11
   rotate: false
-  xy: 1932, 1207
+  xy: 1932, 1109
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi
   rotate: false
-  xy: 1975, 1221
+  xy: 1975, 1123
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi-1
   rotate: false
-  xy: 1932, 1109
+  xy: 2002, 1417
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -97,7 +97,7 @@ Matluot
   index: -1
 Tv
   rotate: false
-  xy: 1932, 1305
+  xy: 1932, 1207
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -165,6 +165,13 @@ frmTextShow
   orig: 720, 50
   offset: 0, 0
   index: -1
+icon1
+  rotate: false
+  xy: 1975, 112
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
 icon14
   rotate: false
   xy: 1975, 396
@@ -181,21 +188,14 @@ icon18
   index: -1
 icon2
   rotate: false
-  xy: 1975, 212
+  xy: 1975, 159
   size: 46, 51
   orig: 46, 51
   offset: 0, 0
   index: -1
-icon5
-  rotate: false
-  xy: 1975, 112
-  size: 47, 45
-  orig: 47, 45
-  offset: 0, 0
-  index: -1
 icon6
   rotate: false
-  xy: 1975, 159
+  xy: 1975, 212
   size: 46, 51
   orig: 46, 51
   offset: 0, 0
@@ -292,91 +292,91 @@ filter: Nearest,Nearest
 repeat: none
 100k-rw
   rotate: false
-  xy: 1712, 865
+  xy: 710, 178
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 10k-rw
   rotate: false
-  xy: 1196, 865
+  xy: 452, 178
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 15Tr-rw
   rotate: false
-  xy: 966, 567
+  xy: 710, 29
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 200k-rw
   rotate: false
-  xy: 452, 283
+  xy: 969, 624
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 20k-rw
   rotate: false
-  xy: 1454, 865
+  xy: 1579, 865
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 500k-rw
   rotate: false
-  xy: 1224, 716
+  xy: 1579, 716
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 50k-rw
   rotate: false
-  xy: 938, 865
+  xy: 452, 327
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 5Tr-rw
   rotate: false
-  xy: 966, 716
+  xy: 1321, 716
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Ip11-rw
   rotate: false
-  xy: 452, 134
+  xy: 710, 327
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Macohoi-rw
   rotate: false
-  xy: 1482, 716
+  xy: 968, 475
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Matluot-rw
   rotate: false
-  xy: 452, 432
+  xy: 1321, 865
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Tv-rw
   rotate: false
-  xy: 1740, 716
+  xy: 452, 29
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 boxmessage
   rotate: false
-  xy: 1224, 601
+  xy: 1837, 720
   size: 172, 113
   orig: 172, 113
   offset: 0, 0
@@ -397,154 +397,161 @@ btnContinus
   index: -1
 btnEvent
   rotate: false
-  xy: 710, 391
+  xy: 968, 304
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnMission
   rotate: false
-  xy: 710, 486
+  xy: 1064, 304
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnUser
   rotate: false
-  xy: 710, 296
+  xy: 968, 209
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 frmRed
   rotate: false
-  xy: 452, 581
+  xy: 969, 773
   size: 350, 239
   orig: 350, 239
   offset: 0, 0
   index: -1
+frmRw
+  rotate: false
+  xy: 452, 668
+  size: 515, 344
+  orig: 515, 344
+  offset: 0, 0
+  index: -1
 frmTurn
   rotate: false
-  xy: 1398, 640
+  xy: 968, 399
   size: 197, 74
   orig: 197, 74
   offset: 0, 0
   index: -1
 icon
   rotate: false
-  xy: 452, 822
+  xy: 452, 476
   size: 484, 190
   orig: 484, 190
   offset: 0, 0
   index: -1
 icon0
   rotate: false
-  xy: 758, 245
+  xy: 1064, 253
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
-icon1
-  rotate: false
-  xy: 1695, 669
-  size: 47, 45
-  orig: 47, 45
-  offset: 0, 0
-  index: -1
 icon10
   rotate: false
-  xy: 1970, 962
+  xy: 1227, 721
   size: 46, 50
   orig: 46, 50
   offset: 0, 0
   index: -1
 icon11
   rotate: false
-  xy: 1597, 665
+  xy: 1999, 912
   size: 47, 49
   orig: 47, 49
   offset: 0, 0
   index: -1
 icon12
   rotate: false
-  xy: 1970, 910
+  xy: 1275, 721
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
 icon13
   rotate: false
-  xy: 757, 198
+  xy: 1273, 674
   size: 46, 45
   orig: 46, 45
   offset: 0, 0
   index: -1
 icon15
   rotate: false
-  xy: 853, 592
+  xy: 968, 107
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 icon16
   rotate: false
-  xy: 900, 591
+  xy: 1015, 157
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
 icon17
   rotate: false
-  xy: 1744, 669
+  xy: 968, 60
   size: 47, 45
   orig: 47, 45
   offset: 0, 0
   index: -1
 icon19
   rotate: false
-  xy: 710, 245
+  xy: 1167, 424
   size: 46, 49
   orig: 46, 49
   offset: 0, 0
   index: -1
 icon3
   rotate: false
-  xy: 1646, 666
+  xy: 1999, 862
   size: 47, 48
   orig: 47, 48
   offset: 0, 0
   index: -1
 icon4
   rotate: false
-  xy: 710, 142
+  xy: 1227, 669
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
+icon5
+  rotate: false
+  xy: 1111, 257
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
 icon7
   rotate: false
-  xy: 804, 592
+  xy: 1999, 963
   size: 47, 49
   orig: 47, 49
   offset: 0, 0
   index: -1
 icon8
   rotate: false
-  xy: 710, 194
+  xy: 968, 158
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 icon9
   rotate: false
-  xy: 1793, 669
+  xy: 1015, 110
   size: 47, 45
   orig: 47, 45
   offset: 0, 0
   index: -1
 kim
   rotate: false
-  xy: 804, 643
+  xy: 1837, 835
   size: 160, 177
   orig: 160, 177
   offset: 0, 0
