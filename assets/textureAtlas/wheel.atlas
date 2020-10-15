@@ -20,21 +20,21 @@ repeat: none
   index: -1
 15Tr
   rotate: false
-  xy: 1975, 1025
+  xy: 1932, 1109
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 200k
   rotate: false
-  xy: 1975, 829
+  xy: 2002, 1417
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 20k
   rotate: false
-  xy: 1932, 1011
+  xy: 1975, 927
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -48,7 +48,7 @@ repeat: none
   index: -1
 50k
   rotate: false
-  xy: 1932, 913
+  xy: 1975, 829
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -69,7 +69,7 @@ Effect
   index: -1
 Ip11
   rotate: false
-  xy: 1932, 1109
+  xy: 1932, 1011
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -83,14 +83,14 @@ Macohoi
   index: -1
 Macohoi-1
   rotate: false
-  xy: 2002, 1417
+  xy: 1975, 1025
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Matluot
   rotate: false
-  xy: 1975, 927
+  xy: 1932, 913
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -116,6 +116,13 @@ bg
   orig: 720, 1280
   offset: 0, 0
   index: -1
+btnBack
+  rotate: false
+  xy: 1975, 499
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
 btnOk
   rotate: false
   xy: 2, 24
@@ -139,7 +146,7 @@ btnSkip
   index: -1
 btnthemluot
   rotate: false
-  xy: 1975, 501
+  xy: 1975, 446
   size: 49, 51
   orig: 49, 51
   offset: 0, 0
@@ -174,28 +181,21 @@ icon1
   index: -1
 icon14
   rotate: false
-  xy: 1975, 396
+  xy: 1975, 212
   size: 46, 51
   orig: 46, 51
   offset: 0, 0
   index: -1
 icon18
   rotate: false
-  xy: 1975, 449
+  xy: 1975, 394
   size: 47, 50
   orig: 47, 50
   offset: 0, 0
   index: -1
-icon2
-  rotate: false
-  xy: 1975, 159
-  size: 46, 51
-  orig: 46, 51
-  offset: 0, 0
-  index: -1
 icon6
   rotate: false
-  xy: 1975, 212
+  xy: 1975, 159
   size: 46, 51
   orig: 46, 51
   offset: 0, 0
@@ -381,13 +381,6 @@ boxmessage
   orig: 172, 113
   offset: 0, 0
   index: -1
-btnBack
-  rotate: false
-  xy: 344, 19
-  size: 94, 93
-  orig: 94, 93
-  offset: 0, 0
-  index: -1
 btnContinus
   rotate: false
   xy: 2, 2
@@ -404,14 +397,35 @@ btnEvent
   index: -1
 btnMission
   rotate: false
-  xy: 1064, 304
+  xy: 344, 19
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+btnMusicOff
+  rotate: false
+  xy: 968, 209
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+btnMusicOn
+  rotate: false
+  xy: 968, 114
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+btnRule
+  rotate: false
+  xy: 1064, 209
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnUser
   rotate: false
-  xy: 968, 209
+  xy: 1064, 304
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
@@ -446,21 +460,21 @@ icon
   index: -1
 icon0
   rotate: false
-  xy: 1064, 253
+  xy: 1227, 669
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 icon10
   rotate: false
-  xy: 1227, 721
+  xy: 1167, 423
   size: 46, 50
   orig: 46, 50
   offset: 0, 0
   index: -1
 icon11
   rotate: false
-  xy: 1999, 912
+  xy: 1999, 963
   size: 47, 49
   orig: 47, 49
   offset: 0, 0
@@ -474,37 +488,44 @@ icon12
   index: -1
 icon13
   rotate: false
-  xy: 1273, 674
+  xy: 1226, 523
   size: 46, 45
   orig: 46, 45
   offset: 0, 0
   index: -1
 icon15
   rotate: false
-  xy: 968, 107
+  xy: 1016, 63
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 icon16
   rotate: false
-  xy: 1015, 157
+  xy: 1226, 570
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
 icon17
   rotate: false
-  xy: 968, 60
+  xy: 1226, 476
   size: 47, 45
   orig: 47, 45
   offset: 0, 0
   index: -1
 icon19
   rotate: false
-  xy: 1167, 424
+  xy: 968, 63
   size: 46, 49
   orig: 46, 49
+  offset: 0, 0
+  index: -1
+icon2
+  rotate: false
+  xy: 1227, 720
+  size: 46, 51
+  orig: 46, 51
   offset: 0, 0
   index: -1
 icon3
@@ -516,35 +537,35 @@ icon3
   index: -1
 icon4
   rotate: false
-  xy: 1227, 669
+  xy: 1111, 157
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
 icon5
   rotate: false
-  xy: 1111, 257
+  xy: 1227, 622
   size: 47, 45
   orig: 47, 45
   offset: 0, 0
   index: -1
 icon7
   rotate: false
-  xy: 1999, 963
+  xy: 1999, 912
   size: 47, 49
   orig: 47, 49
   offset: 0, 0
   index: -1
 icon8
   rotate: false
-  xy: 968, 158
+  xy: 1064, 158
   size: 45, 49
   orig: 45, 49
   offset: 0, 0
   index: -1
 icon9
   rotate: false
-  xy: 1015, 110
+  xy: 968, 16
   size: 47, 45
   orig: 47, 45
   offset: 0, 0

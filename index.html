@@ -6,13 +6,13 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="full-screen" content="yes"/>
   <meta name="screen-orientation" content="landscape"/>
-  <title>Vòng Quay Linh Thú - Rinh quà liền Tay</title>
+  <title>Phi Tiêu - Rinh quà liền Tay</title>
   <meta name="author" content="Mega1.vn">
   <meta property="og:type"          content="website" />
   <meta property="fb:app_id"        content="194961805180251">
   <!-- <meta property="og:image"         content="https://cdn2.yame.vn/cimg/images/f5a3aacf-d1d3-0800-5061-0016fad92ee0.jpg"> -->
   <meta property="og:url"           content="https://linhthu.mega1.vn/>
-  <meta property= "og:title"        content="Vòng Quay Linh Thú" />
+  <meta property= "og:title"        content="Phi Tiêu" />
   <meta property="og:description"   content="Rinh quà liền Tay" />
   <link href="css/style.css" rel="stylesheet" type="text/css" />
   <script
@@ -212,7 +212,7 @@
     
   </script>
   <div id="popDiv" class="ontop">
-    <table border="3" id="popup">
+    <table border="1" id="popup">
     <tr>
       <td>
         <label id="ftitle" for="fname">First name:</label>
@@ -222,13 +222,11 @@
     <tr>
       <td>
         <!-- <a href="#" onClick="closePopup()">OK</a> -->
-        <button type="submit" class="outline white-purple" onClick="closePopup()">Ok</button>
-        <!-- <button class="button" onClick="closePopup()">OK</button> -->
+        <button class="button" onClick="closePopup()">OK</button>
       </td>
     </tr>
   </table>
 </div>
-  
   <div align="center" id="embed-html"></div>
  <script type="text/javascript" src="html/html.nocache.js"></script>
  <style>
@@ -256,127 +254,56 @@
     background-color: #000000;
     color: #000000;
     opacity: .9;
-    filter: alpha(opacity = 50);
+    filter: alpha(opacity = 100);
   }
   #fname{
-    background-color:rgb(75, 6, 6);
-    opacity: .8;
+    background-color: rgb(219, 206, 188);
     font-weight: bold;
-    /* color:rgb(88, 66, 18); */
-    color:white;
-    font-size: 20px;
-    border: 2px solid white;
-    border-radius: 5px;
-    width: 250px;
-    height: 50px;
+    color:rgb(88, 66, 18);
+    border: 2px solid goldenrod;
   }
   #popup {
-    width: 500px;
-    height: 250px;
+    width: 300px;
+    height: 100px;
     position: absolute;
     /* color: #000000; */
     color: rgb(88, 66, 18);;
     font-weight: bold;
-    border-color: rgb(117, 11, 11);
-    /* background-color:tan; */
+    background-color:tan;
     /* To align popup window at the center of screen*/
     top: 50%;
     left: 50%;
     margin-top: -100px;
-    margin-left: -250px;
+    margin-left: -150px;
     border-style: outset;
-    /* border: 4px solid #c56d08d8; */
+    border: 4px solid #c56d08d8;
     border-radius: 8px;
-    background-image:url("/assets/panel.png");
 
   }
-  /* button {
+  .button {
+  padding: 15px 20px;
+  font-size: 15px;
+  font-weight: bolder;
+  /* -webkit-text-stroke: 1px rgb(19, 102, 26) ; */
+  text-align: center;
   cursor: pointer;
-  outline: none; */
-    .outline {
-        position: relative;
-        z-index: 3;
-        background: transparent;
-        color: #1172c4;
-        font-size: 20px;
-        font-weight: bolder;
-        border-color: #1172c4;
-        border-style: solid;
-        border-width: 3px;
-        border-radius: 10px;
-        padding: 10px 40px;
-        text-transform: uppercase;
-        transition: all 0.2s linear;
-        /* a {
-            text-decoration: none;
-        } */
-    }
-    .outline:hover {
-        color: white;
-        background: #1172c4;
-        border-color: white;
-        transition: all 0.2s linear;
-    }
-    .outline:active {
-        border-radius: 10px;
-    }
-    .white-blue {
-        font-weight: 700;
-        color: #00aeef;
-        border-color: white;
-        background: white;
-    }
-    .white-blue:hover {
-        color: white;
-        background: #00aeef;
-        border-color: white;
-    }
-    .white-green {
-        font-weight: 700;
-        color: #7dc21e;
-        border-color: white;
-        background: white;
-    }
-    .white-green:hover {
-        color: white;
-        background: #7dc21e;
-        border-color: white;
-    }
-   .green-white {
-        font-weight: 700;
-        color: #7dc21e;
-        border-color: #7dc21e;
-        background: transparent;
-    }
-    .green-white:hover {
-        color: white;
-        background: #7dc21e;
-        border-color: #7dc21e;
-    }
-    .purple-white {
-        font-weight: 700;
-        color: red;
-        border-color: red;
-        background: transparent;
-    }
-    .purple-white:hover {
-        color: white;
-        background:red;
-        border-color:white;
-    }
-    .white-purple {
-        font-weight: 700;
-        color: red;
-        border-color: white;
-        background: white;
-    }
-    .white-purple:hover {
-        color: white;
-        background:red;
-        border-color: white;
-    }
+  outline: none;
+  color: white;
+  /* text-shadow: 1px 1px 2px black, 0 0 25px greenyellow, 0 0 5px green; */
+  background-color: #65e969;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 3px rgb(54, 52, 52);
+  height: 40px;
+}
 
-  
+.button:hover {background-color: green}
+
+.button:active {
+  background-color: #65e969;
+  box-shadow: 0 3px rgb(54, 52, 52);
+  transform: translateY(2px);
+}
 </style>
 <script type="text/javascript">
   function pop(div) {

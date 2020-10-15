@@ -1,0 +1,28 @@
+{
+
+com.badlogic.gdx.graphics.g2d.BitmapFont: { default-font: { file: font/keyboard.fnt }},
+											
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 }
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {}
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: { font: default-font, downFontColor: black,
+               fontColor: black, down: default_btn_keyboard_key_pressed, up: default_btn_keyboard_key_normal},
+    btnNormalKeyboard: { font: default-font, downFontColor: black,
+               fontColor: black, down: default_btn_keyboard_key_pressed, up: default_btn_keyboard_key_normal},
+    btnPopup: { font: default-font, downFontColor: white,
+               fontColor: white, down: default_btn_popup_key, up: default_btn_popup_key},           
+    btnSpecialKeyboard: { font: default-font, downFontColor: black,
+               fontColor: black, down: default_btn_special_key_pressed, up: default_btn_special_key_normal}                     
+   
+    
+},
+}

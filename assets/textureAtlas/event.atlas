@@ -6,21 +6,28 @@ filter: Nearest,Nearest
 repeat: none
 noticeEvent
   rotate: false
-  xy: 636, 738
+  xy: 636, 798
   size: 157, 58
   orig: 157, 58
   offset: 0, 0
   index: -1
+noticeRule
+  rotate: false
+  xy: 2, 2
+  size: 139, 58
+  orig: 139, 58
+  offset: 0, 0
+  index: -1
 titleBody
   rotate: false
-  xy: 2, 141
+  xy: 2, 201
   size: 632, 655
   orig: 632, 655
   offset: 0, 0
   index: -1
 titleHeader
   rotate: false
-  xy: 2, 2
+  xy: 2, 62
   size: 632, 137
   orig: 632, 137
   offset: 0, 0

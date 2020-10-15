@@ -1,0 +1,122 @@
+
+image.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 64
+  size: 16, 404
+  orig: 16, 404
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 2, 2
+  size: 4, 60
+  orig: 4, 60
+  offset: 0, 0
+  index: -1
+default_btn_popup_key
+  rotate: false
+  xy: 72, 338
+  size: 50, 74
+  split: 9, 9, 11, 12
+  pad: 0, 0, 0, 0
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+default_btn_special_key_normal
+  rotate: false
+  xy: 20, 394
+  size: 50, 74
+  split: 9, 9, 11, 12
+  pad: 0, 0, 0, 0
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+default_btn_keyboard_key_normal
+  rotate: false
+  xy: 20, 394
+  size: 50, 74
+  split: 9, 9, 11, 12
+  pad: 0, 0, 0, 0
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+default_btn_special_key_pressed
+  rotate: false
+  xy: 20, 318
+  size: 50, 74
+  split: 9, 9, 11, 12
+  pad: 0, 0, 0, 0
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+default_btn_keyboard_key_pressed
+  rotate: false
+  xy: 20, 318
+  size: 50, 74
+  split: 9, 9, 11, 12
+  pad: 0, 0, 0, 0
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+default_icon_arrow_down
+  rotate: false
+  xy: 72, 319
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+default_icon_delete
+  rotate: false
+  xy: 20, 84
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+default_icon_enter
+  rotate: false
+  xy: 20, 208
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+default_icon_go
+  rotate: false
+  xy: 20, 256
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+default_icon_search
+  rotate: false
+  xy: 72, 414
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+default_icon_shift_active
+  rotate: false
+  xy: 20, 162
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+default_icon_shift_inactive
+  rotate: false
+  xy: 20, 118
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+edit_text
+  rotate: false
+  xy: 72, 165
+  size: 19, 41
+  split: 4, 4, 5, 5
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
