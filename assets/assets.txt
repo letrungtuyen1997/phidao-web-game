@@ -85,9 +85,9 @@ i:textureAtlas/keyboard.png:85227:image/png
 i:textureAtlas/loadding.png:2491:image/png
 t:textureAtlas/mission.atlas:1175:application/unknown
 i:textureAtlas/mission.png:109574:image/png
-t:textureAtlas/wheel.atlas:6042:application/unknown
-i:textureAtlas/wheel.png:3887503:image/png
-i:textureAtlas/wheel2.png:13946:image/png
+t:textureAtlas/wheel.atlas:6145:application/unknown
+i:textureAtlas/wheel.png:3702958:image/png
+i:textureAtlas/wheel2.png:192702:image/png
 d:uri:0:application/unknown
 t:uri/condi_merge.txt:1:text/plain
 t:uri/effect.txt:4:text/plain
