@@ -1,1 +1,1 @@
-http://phongphitieu-game-client-dev.yeah1group.com
+http://13.229.97.150:8080
