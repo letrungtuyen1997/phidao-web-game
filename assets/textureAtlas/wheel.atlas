@@ -6,385 +6,392 @@ filter: Nearest,Nearest
 repeat: none
 100k
   rotate: false
-  xy: 1932, 1300
+  xy: 1986, 618
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
-10k
+100k-rw
   rotate: false
-  xy: 1932, 1104
-  size: 41, 96
-  orig: 41, 96
-  offset: 0, 0
-  index: -1
-10k-rw
-  rotate: false
-  xy: 82, 2
+  xy: 1519, 173
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
+10k
+  rotate: false
+  xy: 1474, 12
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
 15Tr
   rotate: false
-  xy: 1975, 1020
+  xy: 1939, 324
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 200k
   rotate: false
-  xy: 2002, 1510
+  xy: 2002, 1399
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 200k-rw
   rotate: false
-  xy: 1425, 264
+  xy: 1259, 110
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 20k
   rotate: false
-  xy: 1932, 1006
+  xy: 1982, 422
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 500k
   rotate: false
-  xy: 2002, 1314
+  xy: 1943, 618
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 50k
   rotate: false
-  xy: 1932, 908
+  xy: 1951, 226
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 50k-rw
   rotate: false
-  xy: 1688, 275
+  xy: 1001, 110
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 5Tr
   rotate: false
-  xy: 2002, 1412
+  xy: 2002, 1301
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 5Tr-rw
   rotate: false
-  xy: 1148, 115
+  xy: 1780, 28
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Effect
   rotate: false
-  xy: 2, 833
+  xy: 2, 838
   size: 1206, 1206
   orig: 1206, 1206
   offset: 0, 0
   index: -1
 Ip11
   rotate: false
-  xy: 1975, 1118
+  xy: 1939, 422
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Ip11-rw
   rotate: false
-  xy: 1683, 126
+  xy: 1519, 322
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Macohoi
   rotate: false
-  xy: 1932, 1202
+  xy: 1986, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi-1
   rotate: false
-  xy: 1932, 1202
+  xy: 1986, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi-rw
   rotate: false
-  xy: 488, 9
-  size: 256, 147
-  orig: 256, 147
+  xy: 1001, 259
+  size: 258, 147
+  orig: 258, 147
   offset: 0, 0
   index: -1
 Matluot
   rotate: false
-  xy: 1975, 922
+  xy: 1982, 324
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Matluot-rw
   rotate: false
-  xy: 1167, 264
+  xy: 1261, 259
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Tv
   rotate: false
-  xy: 1975, 1216
+  xy: 1943, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 arrow
   rotate: false
-  xy: 1932, 665
+  xy: 1932, 811
   size: 91, 147
   orig: 91, 147
   offset: 0, 0
   index: -1
 bg
   rotate: false
-  xy: 1210, 759
+  xy: 1210, 764
   size: 720, 1280
   orig: 720, 1280
   offset: 0, 0
   index: -1
 boxmessage
   rotate: false
-  xy: 974, 240
+  xy: 1777, 177
   size: 172, 113
   orig: 172, 113
   offset: 0, 0
   index: -1
 btnBack
   rotate: false
-  xy: 1975, 867
+  xy: 1009, 783
   size: 63, 53
   orig: 63, 53
   offset: 0, 0
   index: -1
 btnContinus
   rotate: false
-  xy: 1406, 173
+  xy: 1517, 82
   size: 261, 89
   orig: 261, 89
   offset: 0, 0
   index: -1
 btnEvent
   rotate: false
-  xy: 1941, 139
+  xy: 1378, 15
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnMission
   rotate: false
-  xy: 1946, 234
+  xy: 1282, 15
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnMusicOff
   rotate: false
-  xy: 1946, 329
+  xy: 1186, 15
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnMusicOn
   rotate: false
-  xy: 340, 56
+  xy: 1847, 621
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnOk
   rotate: false
-  xy: 746, 12
+  xy: 519, 51
   size: 340, 110
   orig: 340, 110
   offset: 0, 0
   index: -1
 btnQuay
   rotate: false
-  xy: 1406, 14
+  xy: 1009, 408
   size: 340, 110
   orig: 340, 110
   offset: 0, 0
   index: -1
 btnRule
   rotate: false
-  xy: 1088, 20
+  xy: 1847, 526
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnSkip
   rotate: false
-  xy: 1748, 17
+  xy: 1351, 411
   size: 107, 107
   orig: 107, 107
   offset: 0, 0
   index: -1
 btnUser
   rotate: false
-  xy: 1941, 44
+  xy: 1932, 716
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnthemluot
   rotate: false
-  xy: 1974, 814
+  xy: 1517, 29
   size: 49, 51
   orig: 49, 51
   offset: 0, 0
   index: -1
 dot
   rotate: false
-  xy: 2018, 1740
+  xy: 1460, 498
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
   index: -1
 frmRed
   rotate: false
-  xy: 1688, 424
+  xy: 1495, 471
   size: 350, 239
   orig: 350, 239
   offset: 0, 0
   index: -1
 frmResult
   rotate: false
-  xy: 492, 158
+  xy: 519, 163
   size: 480, 327
   orig: 480, 327
   offset: 0, 0
   index: -1
 frmRw
   rotate: false
-  xy: 1171, 413
+  xy: 2, 2
   size: 515, 344
   orig: 515, 344
   offset: 0, 0
   index: -1
+frmTextShow
+  rotate: false
+  xy: 1009, 712
+  size: 720, 50
+  orig: 720, 50
+  offset: 0, 0
+  index: -1
 frmTurn
   rotate: false
-  xy: 1688, 683
+  xy: 987, 34
   size: 197, 74
   orig: 197, 74
   offset: 0, 0
   index: -1
 frmWarning
   rotate: false
-  xy: 492, 487
+  xy: 492, 492
   size: 515, 344
   orig: 515, 344
   offset: 0, 0
   index: -1
 icon
   rotate: false
-  xy: 2, 151
+  xy: 1009, 520
   size: 484, 190
   orig: 484, 190
   offset: 0, 0
   index: -1
 kim
   rotate: false
-  xy: 1009, 654
+  xy: 1777, 292
   size: 160, 177
   orig: 160, 177
   offset: 0, 0
   index: -1
 knife
   rotate: false
-  xy: 1009, 355
+  xy: 1932, 1114
   size: 77, 171
   orig: 77, 171
   offset: 0, 0
   index: -1
 knife2
   rotate: false
-  xy: 1088, 374
+  xy: 1932, 960
   size: 77, 152
   orig: 77, 152
   offset: 0, 0
   index: -1
 lightdot
   rotate: false
-  xy: 1932, 866
+  xy: 1074, 796
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
   index: -1
 loadding
   rotate: false
-  xy: 974, 124
+  xy: 1932, 1930
   size: 114, 114
   orig: 114, 114
   offset: 0, 0
   index: -1
 pointer
   rotate: false
-  xy: 2018, 1762
+  xy: 492, 429
   size: 16, 61
   orig: 16, 61
   offset: 0, 0
   index: -1
 skip
   rotate: false
-  xy: 1009, 528
+  xy: 861, 37
   size: 124, 124
   orig: 124, 124
   offset: 0, 0
   index: -1
 skip12
   rotate: false
-  xy: 1932, 1825
+  xy: 1932, 1714
   size: 111, 214
   orig: 111, 214
   offset: 0, 0
   index: -1
 skip16
   rotate: false
-  xy: 1932, 1608
+  xy: 1932, 1497
   size: 84, 215
   orig: 84, 215
   offset: 0, 0
   index: -1
 skip20
   rotate: false
-  xy: 1932, 1398
+  xy: 1932, 1287
   size: 68, 208
   orig: 68, 208
   offset: 0, 0
   index: -1
 txtTurn
   rotate: false
-  xy: 2, 7
+  xy: 519, 14
   size: 78, 35
   orig: 78, 35
   offset: 0, 0
   index: -1
 wheel20
   rotate: false
-  xy: 2, 343
+  xy: 2, 348
   size: 488, 488
   orig: 488, 488
   offset: 0, 0
@@ -395,7 +402,7 @@ size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-100k-rw
+10k-rw
   rotate: false
   xy: 2, 2
   size: 256, 147
@@ -404,7 +411,7 @@ repeat: none
   index: -1
 15Tr-rw
   rotate: false
-  xy: 1034, 54
+  xy: 1034, 2
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -425,15 +432,8 @@ repeat: none
   index: -1
 Tv-rw
   rotate: false
-  xy: 776, 54
+  xy: 776, 2
   size: 256, 147
   orig: 256, 147
-  offset: 0, 0
-  index: -1
-frmTextShow
-  rotate: false
-  xy: 2, 151
-  size: 720, 50
-  orig: 720, 50
   offset: 0, 0
   index: -1
