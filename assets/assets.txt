@@ -73,8 +73,8 @@ b:textureAtlas/.DS_Store:6148:application/unknown
 i:textureAtlas/bgload.png:1192691:image/png
 t:textureAtlas/effect.atlas:3060:application/unknown
 i:textureAtlas/effect.png:514738:image/png
-t:textureAtlas/event.atlas:481:application/unknown
-i:textureAtlas/event.png:36603:image/png
+t:textureAtlas/event.atlas:579:application/unknown
+i:textureAtlas/event.png:457240:image/png
 t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png
@@ -86,6 +86,8 @@ i:textureAtlas/loadding.png:2491:image/png
 i:textureAtlas/logo.png:70548:image/png
 t:textureAtlas/mission.atlas:1175:application/unknown
 i:textureAtlas/mission.png:109574:image/png
+t:textureAtlas/rule.atlas:472:application/unknown
+i:textureAtlas/rule.png:3211774:image/png
 t:textureAtlas/wheel.atlas:6141:application/unknown
 i:textureAtlas/wheel.png:3742203:image/png
 i:textureAtlas/wheel2.png:172988:image/png

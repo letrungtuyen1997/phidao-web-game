@@ -1,12 +1,12 @@
 
 event.png
-size: 1024,1024
+size: 1024,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 noticeEvent
   rotate: false
-  xy: 636, 798
+  xy: 704, 1861
   size: 157, 58
   orig: 157, 58
   offset: 0, 0
@@ -30,5 +30,12 @@ titleHeader
   xy: 2, 62
   size: 632, 137
   orig: 632, 137
+  offset: 0, 0
+  index: -1
+tuto
+  rotate: false
+  xy: 2, 858
+  size: 700, 1061
+  orig: 700, 1061
   offset: 0, 0
   index: -1
