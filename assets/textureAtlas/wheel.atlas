@@ -6,23 +6,23 @@ filter: Nearest,Nearest
 repeat: none
 100k
   rotate: false
-  xy: 1986, 618
+  xy: 1943, 618
   size: 41, 96
   orig: 41, 96
-  offset: 0, 0
-  index: -1
-100k-rw
-  rotate: false
-  xy: 1519, 173
-  size: 256, 147
-  orig: 256, 147
   offset: 0, 0
   index: -1
 10k
   rotate: false
-  xy: 1474, 12
+  xy: 1939, 422
   size: 41, 96
   orig: 41, 96
+  offset: 0, 0
+  index: -1
+10k-rw
+  rotate: false
+  xy: 1780, 28
+  size: 256, 147
+  orig: 256, 147
   offset: 0, 0
   index: -1
 15Tr
@@ -34,7 +34,7 @@ repeat: none
   index: -1
 200k
   rotate: false
-  xy: 2002, 1399
+  xy: 1474, 12
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -55,7 +55,7 @@ repeat: none
   index: -1
 500k
   rotate: false
-  xy: 1943, 618
+  xy: 2002, 1301
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -76,14 +76,14 @@ repeat: none
   index: -1
 5Tr
   rotate: false
-  xy: 2002, 1301
+  xy: 2002, 1399
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 5Tr-rw
   rotate: false
-  xy: 1780, 28
+  xy: 1519, 173
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -97,7 +97,7 @@ Effect
   index: -1
 Ip11
   rotate: false
-  xy: 1939, 422
+  xy: 1986, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -111,14 +111,14 @@ Ip11-rw
   index: -1
 Macohoi
   rotate: false
-  xy: 1986, 520
+  xy: 1943, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi-1
   rotate: false
-  xy: 1986, 520
+  xy: 1943, 520
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -146,7 +146,7 @@ Matluot-rw
   index: -1
 Tv
   rotate: false
-  xy: 1943, 520
+  xy: 1986, 618
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -158,7 +158,7 @@ arrow
   orig: 91, 147
   offset: 0, 0
   index: -1
-bg
+bg2
   rotate: false
   xy: 1210, 764
   size: 720, 1280
@@ -398,42 +398,49 @@ wheel20
   index: -1
 
 wheel2.png
-size: 2048,256
+size: 1024,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-10k-rw
+100k-rw
   rotate: false
-  xy: 2, 2
+  xy: 2, 151
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 15Tr-rw
   rotate: false
-  xy: 1034, 2
+  xy: 724, 1284
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 20k-rw
   rotate: false
-  xy: 518, 2
+  xy: 2, 2
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 500k-rw
   rotate: false
-  xy: 260, 2
+  xy: 724, 1433
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Tv-rw
   rotate: false
-  xy: 776, 2
+  xy: 260, 151
   size: 256, 147
   orig: 256, 147
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 300
+  size: 720, 1280
+  orig: 720, 1280
   offset: 0, 0
   index: -1
