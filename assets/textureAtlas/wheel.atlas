@@ -20,7 +20,7 @@ repeat: none
   index: -1
 10k-rw
   rotate: false
-  xy: 1780, 28
+  xy: 1259, 110
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -41,7 +41,7 @@ repeat: none
   index: -1
 200k-rw
   rotate: false
-  xy: 1259, 110
+  xy: 1519, 322
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -83,7 +83,7 @@ repeat: none
   index: -1
 5Tr-rw
   rotate: false
-  xy: 1519, 173
+  xy: 1780, 28
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -104,7 +104,7 @@ Ip11
   index: -1
 Ip11-rw
   rotate: false
-  xy: 1519, 322
+  xy: 1519, 173
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -158,7 +158,7 @@ arrow
   orig: 91, 147
   offset: 0, 0
   index: -1
-bg2
+bg
   rotate: false
   xy: 1210, 764
   size: 720, 1280
@@ -398,49 +398,42 @@ wheel20
   index: -1
 
 wheel2.png
-size: 1024,2048
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 100k-rw
-  rotate: false
-  xy: 2, 151
-  size: 256, 147
-  orig: 256, 147
-  offset: 0, 0
-  index: -1
-15Tr-rw
-  rotate: false
-  xy: 724, 1284
-  size: 256, 147
-  orig: 256, 147
-  offset: 0, 0
-  index: -1
-20k-rw
   rotate: false
   xy: 2, 2
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
+15Tr-rw
+  rotate: false
+  xy: 1034, 2
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: -1
+20k-rw
+  rotate: false
+  xy: 518, 2
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: -1
 500k-rw
   rotate: false
-  xy: 724, 1433
+  xy: 260, 2
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Tv-rw
   rotate: false
-  xy: 260, 151
+  xy: 776, 2
   size: 256, 147
   orig: 256, 147
-  offset: 0, 0
-  index: -1
-bg
-  rotate: false
-  xy: 2, 300
-  size: 720, 1280
-  orig: 720, 1280
   offset: 0, 0
   index: -1
