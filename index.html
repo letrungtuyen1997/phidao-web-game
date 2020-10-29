@@ -11,7 +11,7 @@
   <meta property="og:type"          content="website" />
   <meta property="fb:app_id"        content="194961805180251">
   <!-- <meta property="og:image"         content="https://cdn2.yame.vn/cimg/images/f5a3aacf-d1d3-0800-5061-0016fad92ee0.jpg"> -->
-  <meta property="og:url"           content="http://phitieuyeah1.tk/">
+  <meta property="og:url"           content="https://phongphitieu-gameclient-master.mega1.vn">
   <meta property= "og:title"        content="Phi Tiêu" />
   <meta property="og:description"   content="Rinh quà liền Tay" />
   <link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -28,8 +28,6 @@
   <!-- <script src="jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script> -->
   <!--script src="https://connect.facebook.net/en_US/fbinstant.6.2.js"></script-->
   <!-- endbuild -->
-  
-
   <script src="scripts/sound.js"></script>
   <script src="scripts/fbinstant.js"></script>
   <script src="scripts/otherfunctions.js"></script>
@@ -68,15 +66,13 @@
   <script>
     var url      = new URL(window.location.href);
     var token    = new URLSearchParams(url.search).get('token');
-    token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDQyODY4MzMsImlkIjoiV1dOUWxTdTdNM1BCWVZ0NjNnNFUiLCJwYXlsb2FkIjp7ImFkZHJlc3MiOiIiLCJkaXN0cmljdCI6IiIsIm1lZ2ExX2NvZGUiOiJNRUdBMTU1MTY0MjM3MDIiLCJuYW1lIjoiIiwicGhvbmUiOiIwNzAwMDAwMDE4IiwicHJvdmluY2UiOiIiLCJyZXdhcmRfcGhvbmUiOiIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpsZUhBaU9qRTJNVGt5TXpNNU9Ua3NJbWxrSWpvaVJXaEJTMEpZVm5wYVdFcDZSVWxEUVdkT2FuYzFOV05MSWl3aWJtRnRaU0k2SWlJc0luQm9iMjVsWDI1MWJXSmxjaUk2SWpBM01EQXdNREF3TVRnaUxDSnpZMjl3WlNJNkltRjFkR2hmZEc5clpXNGlmUS5haW1OakRfLXAyNDhVamd2NVFCSDJNOU5nVUliQmdhN1pfRXg0dTItOHljIiwidXNlcl9pZCI6IkVoQUtCWFZ6WlhKekVJQ0FnTmp3NTVjSyIsIndhcmQiOiIifSwic2NvcGUiOiJhcHAifQ.O7d293LpCMFGBdCjyYWbwGG75XzwzjDEtBLSTBdUrUA'
+    //token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDQyODY4MzMsImlkIjoiV1dOUWxTdTdNM1BCWVZ0NjNnNFUiLCJwYXlsb2FkIjp7ImFkZHJlc3MiOiIiLCJkaXN0cmljdCI6IiIsIm1lZ2ExX2NvZGUiOiJNRUdBMTU1MTY0MjM3MDIiLCJuYW1lIjoiIiwicGhvbmUiOiIwNzAwMDAwMDE4IiwicHJvdmluY2UiOiIiLCJyZXdhcmRfcGhvbmUiOiIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpsZUhBaU9qRTJNVGt5TXpNNU9Ua3NJbWxrSWpvaVJXaEJTMEpZVm5wYVdFcDZSVWxEUVdkT2FuYzFOV05MSWl3aWJtRnRaU0k2SWlJc0luQm9iMjVsWDI1MWJXSmxjaUk2SWpBM01EQXdNREF3TVRnaUxDSnpZMjl3WlNJNkltRjFkR2hmZEc5clpXNGlmUS5haW1OakRfLXAyNDhVamd2NVFCSDJNOU5nVUliQmdhN1pfRXg0dTItOHljIiwidXNlcl9pZCI6IkVoQUtCWFZ6WlhKekVJQ0FnTmp3NTVjSyIsIndhcmQiOiIifSwic2NvcGUiOiJhcHAifQ.O7d293LpCMFGBdCjyYWbwGG75XzwzjDEtBLSTBdUrUA'
     console.log("token: "+token);
     function getToken(){
       return token;
     }
   </script>
   <script type="text/javascript">
-  
-   
     function jsResize(){
       return false;
     }
@@ -130,7 +126,7 @@
       window.facebookShare = function( callback ) {
       var options = ({
         method : 'share',
-        href   : 'http://phitieuyeah1.tk/'
+        href   : 'https://phongphitieu-gameclient-master.mega1.vn'
        }),
         status = '';
       FB.ui(options, function( response ){

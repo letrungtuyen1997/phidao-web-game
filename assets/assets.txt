@@ -79,7 +79,7 @@ t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png
 t:textureAtlas/infor.atlas:1675:application/unknown
-i:textureAtlas/infor.png:78006:image/png
+i:textureAtlas/infor.png:78034:image/png
 t:textureAtlas/keyboard.atlas:1059:application/unknown
 i:textureAtlas/keyboard.png:85227:image/png
 i:textureAtlas/loadding.png:2491:image/png
