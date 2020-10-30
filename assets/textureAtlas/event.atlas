@@ -4,37 +4,72 @@ size: 1024,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
+btn1
+  rotate: false
+  xy: 704, 1845
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn1On
+  rotate: false
+  xy: 2, 2
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn2
+  rotate: false
+  xy: 704, 1763
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+btn2On
+  rotate: false
+  xy: 704, 1927
+  size: 280, 80
+  orig: 280, 80
+  offset: 0, 0
+  index: -1
+iconComming
+  rotate: false
+  xy: 2, 84
+  size: 388, 64
+  orig: 388, 64
+  offset: 0, 0
+  index: -1
 noticeEvent
   rotate: false
-  xy: 704, 1861
+  xy: 392, 90
   size: 157, 58
   orig: 157, 58
   offset: 0, 0
   index: -1
 noticeRule
   rotate: false
-  xy: 2, 2
+  xy: 704, 1703
   size: 139, 58
   orig: 139, 58
   offset: 0, 0
   index: -1
 titleBody
   rotate: false
-  xy: 2, 201
+  xy: 2, 289
   size: 632, 655
   orig: 632, 655
   offset: 0, 0
   index: -1
 titleHeader
   rotate: false
-  xy: 2, 62
+  xy: 2, 150
   size: 632, 137
   orig: 632, 137
   offset: 0, 0
   index: -1
 tuto
   rotate: false
-  xy: 2, 858
+  xy: 2, 946
   size: 700, 1061
   orig: 700, 1061
   offset: 0, 0
