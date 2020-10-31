@@ -78,12 +78,12 @@ i:textureAtlas/bgload.png:1192691:image/png
 t:textureAtlas/effect.atlas:3060:application/unknown
 i:textureAtlas/effect.png:514738:image/png
 t:textureAtlas/event.atlas:1065:application/unknown
-i:textureAtlas/event.png:520988:image/png
+i:textureAtlas/event.png:503276:image/png
 t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png
 t:textureAtlas/infor.atlas:1675:application/unknown
-i:textureAtlas/infor.png:118537:image/png
+i:textureAtlas/infor.png:97103:image/png
 t:textureAtlas/keyboard.atlas:1059:application/unknown
 i:textureAtlas/keyboard.png:85227:image/png
 i:textureAtlas/loadding.png:2491:image/png
