@@ -62,6 +62,8 @@ b:particle/tree:4148:application/unknown
 d:sound:0:application/unknown
 a:sound/bg.mp3:5228741:application/unknown
 a:sound/click.mp3:17224:application/unknown
+a:sound/hit.mp3:1469:application/unknown
+a:sound/hit2.mp3:5884:application/unknown
 a:sound/keydelete.mp3:3805:application/unknown
 a:sound/keyspace.mp3:5477:application/unknown
 a:sound/keytouch.mp3:2551:application/unknown
