@@ -62,12 +62,10 @@ b:particle/tree:4148:application/unknown
 d:sound:0:application/unknown
 a:sound/bg.mp3:5228741:application/unknown
 a:sound/click.mp3:17224:application/unknown
-a:sound/hit.mp3:1469:application/unknown
-a:sound/hit2.mp3:5884:application/unknown
 a:sound/keydelete.mp3:3805:application/unknown
 a:sound/keyspace.mp3:5477:application/unknown
 a:sound/keytouch.mp3:2551:application/unknown
-a:sound/knifeHit.mp3:8821:application/unknown
+a:sound/knifeHit.mp3:24443:application/unknown
 a:sound/merge.mp3:10796:application/unknown
 a:sound/panel_close.mp3:5024:application/unknown
 a:sound/panel_open.mp3:3152:application/unknown
@@ -79,8 +77,8 @@ b:textureAtlas/.DS_Store:6148:application/unknown
 i:textureAtlas/bgload.png:1192691:image/png
 t:textureAtlas/effect.atlas:3060:application/unknown
 i:textureAtlas/effect.png:514738:image/png
-t:textureAtlas/event.atlas:1065:application/unknown
-i:textureAtlas/event.png:503276:image/png
+t:textureAtlas/event.atlas:1177:application/unknown
+i:textureAtlas/event.png:1129777:image/png
 t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png
