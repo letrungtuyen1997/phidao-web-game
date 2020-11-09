@@ -93,9 +93,9 @@ i:textureAtlas/mission.png:29532:image/png
 t:textureAtlas/rule.atlas:643:application/unknown
 i:textureAtlas/rule.png:501381:image/png
 i:textureAtlas/rule2.png:425894:image/png
-t:textureAtlas/wheel.atlas:6218:application/unknown
-i:textureAtlas/wheel.png:675306:image/png
-i:textureAtlas/wheel2.png:47786:image/png
+t:textureAtlas/wheel.atlas:6414:application/unknown
+i:textureAtlas/wheel.png:3653205:image/png
+i:textureAtlas/wheel2.png:305659:image/png
 d:uri:0:application/unknown
 t:uri/condi_merge.txt:1:text/plain
 t:uri/effect.txt:4:text/plain
