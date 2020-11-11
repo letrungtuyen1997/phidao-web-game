@@ -6,37 +6,30 @@ filter: Nearest,Nearest
 repeat: none
 100k-rw
   rotate: false
-  xy: 1777, 26
-  size: 256, 147
-  orig: 256, 147
-  offset: 0, 0
-  index: -1
-10k
-  rotate: false
-  xy: 2002, 1401
-  size: 41, 96
-  orig: 41, 96
-  offset: 0, 0
-  index: -1
-10k-rw
-  rotate: false
-  xy: 1519, 84
+  xy: 1777, 175
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 200k
   rotate: false
-  xy: 2002, 1303
+  xy: 2002, 1401
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 200k-rw
   rotate: false
-  xy: 1777, 324
+  xy: 1519, 84
   size: 256, 147
   orig: 256, 147
+  offset: 0, 0
+  index: -1
+500k
+  rotate: false
+  xy: 1439, 14
+  size: 41, 96
+  orig: 41, 96
   offset: 0, 0
   index: -1
 50k-rw
@@ -48,7 +41,7 @@ repeat: none
   index: -1
 5Tr
   rotate: false
-  xy: 1439, 14
+  xy: 2002, 1303
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -62,7 +55,7 @@ Effect
   index: -1
 Ip11-rw
   rotate: false
-  xy: 1777, 175
+  xy: 1777, 324
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -77,6 +70,13 @@ Macohoi-rw
 Matluot-rw
   rotate: false
   xy: 1519, 233
+  size: 256, 147
+  orig: 256, 147
+  offset: 0, 0
+  index: -1
+Vtvcab-rw
+  rotate: false
+  xy: 1777, 26
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
@@ -146,14 +146,14 @@ btnMusicOff
   index: -1
 btnOk
   rotate: false
-  xy: 1009, 410
+  xy: 519, 52
   size: 340, 110
   orig: 340, 110
   offset: 0, 0
   index: -1
 btnQuay
   rotate: false
-  xy: 519, 52
+  xy: 1009, 410
   size: 340, 110
   orig: 340, 110
   offset: 0, 0
@@ -327,9 +327,23 @@ filter: Nearest,Nearest
 repeat: none
 100k
   rotate: false
-  xy: 141, 2
+  xy: 98, 2
   size: 41, 96
   orig: 41, 96
+  offset: 0, 0
+  index: -1
+10k
+  rotate: false
+  xy: 270, 2
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+10k-rw
+  rotate: false
+  xy: 260, 100
+  size: 256, 147
+  orig: 256, 147
   offset: 0, 0
   index: -1
 15Tr
@@ -360,13 +374,6 @@ repeat: none
   orig: 256, 147
   offset: 0, 0
   index: -1
-500k
-  rotate: false
-  xy: 98, 2
-  size: 41, 96
-  orig: 41, 96
-  offset: 0, 0
-  index: -1
 500k-rw
   rotate: false
   xy: 518, 100
@@ -383,28 +390,28 @@ repeat: none
   index: -1
 5Tr-rw
   rotate: false
-  xy: 260, 100
+  xy: 2, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Ip11
   rotate: false
-  xy: 270, 2
+  xy: 227, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi
   rotate: false
-  xy: 227, 2
+  xy: 184, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Macohoi-1
   rotate: false
-  xy: 227, 2
+  xy: 184, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -418,7 +425,7 @@ Matluot
   index: -1
 Tv
   rotate: false
-  xy: 184, 2
+  xy: 141, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
@@ -435,13 +442,6 @@ Vtvcab
   xy: 356, 2
   size: 41, 96
   orig: 41, 96
-  offset: 0, 0
-  index: -1
-Vtvcab-rw
-  rotate: false
-  xy: 2, 100
-  size: 256, 147
-  orig: 256, 147
   offset: 0, 0
   index: -1
 btnMusicOn

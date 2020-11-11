@@ -1,28 +1,21 @@
 
 rule.png
-size: 2048,1024
+size: 2048,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-rule1
+bg2
   rotate: false
-  xy: 684, 12
-  size: 680, 967
-  orig: 680, 967
+  xy: 754, 322
+  size: 720, 1280
+  orig: 720, 1280
   offset: 0, 0
   index: -1
-rule2
+rule
   rotate: false
-  xy: 1366, 2
-  size: 680, 977
-  orig: 680, 977
-  offset: 0, 0
-  index: -1
-rule4
-  rotate: false
-  xy: 2, 78
-  size: 680, 901
-  orig: 680, 901
+  xy: 2, 2
+  size: 750, 1600
+  orig: 750, 1600
   offset: 0, 0
   index: -1
 
@@ -31,17 +24,31 @@ size: 2048,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-bg2
+rule1
   rotate: false
-  xy: 2, 2
-  size: 720, 1280
-  orig: 720, 1280
+  xy: 1366, 905
+  size: 680, 967
+  orig: 680, 967
+  offset: 0, 0
+  index: -1
+rule2
+  rotate: false
+  xy: 684, 895
+  size: 680, 977
+  orig: 680, 977
   offset: 0, 0
   index: -1
 rule3
   rotate: false
-  xy: 724, 31
+  xy: 2, 621
   size: 680, 1251
   orig: 680, 1251
+  offset: 0, 0
+  index: -1
+rule4
+  rotate: false
+  xy: 1366, 2
+  size: 680, 901
+  orig: 680, 901
   offset: 0, 0
   index: -1
