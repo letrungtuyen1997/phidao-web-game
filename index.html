@@ -23,6 +23,15 @@
 </head>
 
 <body >
+  <!-- <button id="btnback">btn</button> -->
+  <button   id="btnback" type="submit" style="background-color:transparent; border-color:transparent;">
+    <img src="./btnBack.png" height="35"/>
+  </button>
+  <script>
+    $('#btnback').click(function(){
+      window.location.href="mega1://back";
+    })
+  </script>
   <style>
     body{
       /* background-color: #f53c038e; */
@@ -31,19 +40,11 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      /* background-position: center -220px; */
-
-      /* background-size: 720px 1100px; */
-      /* height: 500px; */
-      /* -webkit-background-size: cover; */
-      /* -moz-background-size: cover; */
-      /* -o-background-size: cover; */
-      /* background-size: cover; */
-      /* resize: none; */
-      /* display: block; */
+    }
+    #btnback{
+      float: left;
     }
   </style>
-  
   <!-- endbuild -->
   <script src="scripts/sound.js"></script>
   <script src="scripts/fbinstant.js"></script>
@@ -85,6 +86,7 @@
     //token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDQyODY4MzMsImlkIjoiV1dOUWxTdTdNM1BCWVZ0NjNnNFUiLCJwYXlsb2FkIjp7ImFkZHJlc3MiOiIiLCJkaXN0cmljdCI6IiIsIm1lZ2ExX2NvZGUiOiJNRUdBMTU1MTY0MjM3MDIiLCJuYW1lIjoiIiwicGhvbmUiOiIwNzAwMDAwMDE4IiwicHJvdmluY2UiOiIiLCJyZXdhcmRfcGhvbmUiOiIiLCJ0b2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpsZUhBaU9qRTJNVGt5TXpNNU9Ua3NJbWxrSWpvaVJXaEJTMEpZVm5wYVdFcDZSVWxEUVdkT2FuYzFOV05MSWl3aWJtRnRaU0k2SWlJc0luQm9iMjVsWDI1MWJXSmxjaUk2SWpBM01EQXdNREF3TVRnaUxDSnpZMjl3WlNJNkltRjFkR2hmZEc5clpXNGlmUS5haW1OakRfLXAyNDhVamd2NVFCSDJNOU5nVUliQmdhN1pfRXg0dTItOHljIiwidXNlcl9pZCI6IkVoQUtCWFZ6WlhKekVJQ0FnTmp3NTVjSyIsIndhcmQiOiIifSwic2NvcGUiOiJhcHAifQ.O7d293LpCMFGBdCjyYWbwGG75XzwzjDEtBLSTBdUrUA'
     console.log("token: "+token);
     function getToken(){
+      $("#btnback").remove();
       return token;
     }
   </script>
