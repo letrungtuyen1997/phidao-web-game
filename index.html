@@ -337,17 +337,12 @@
 <script type="text/javascript">
   function pop(div) {
     document.getElementById(div).style.display = 'block';
-    // document.getElementById(div).style.position = 'fixed';
-    // document.getElementById(div).style.top = '0px';
-    // document.getElementById(div).style.left = '0px';
-    // document.getElementById(div).style.left = '0px';
   }
   function hide(div) {
     document.getElementById(div).style.display = 'none';
   }
   document.getElementById("fname").onkeydown = function(evt) {
     evt = evt || window.event;
-  
     if(evt.keyCode == 8){
       var ss = evt.target.selectionStart;
        evt.preventDefault();
