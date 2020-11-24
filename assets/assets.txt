@@ -1,5 +1,5 @@
 d:assets:0:application/unknown
-b:.DS_Store:8196:application/unknown
+b:.DS_Store:10244:application/unknown
 i:avatar.png:53658:image/png
 i:badlogic.jpg:68465:image/jpeg
 d:data:0:application/unknown
@@ -77,8 +77,8 @@ b:textureAtlas/.DS_Store:6148:application/unknown
 i:textureAtlas/bgload.png:1192691:image/png
 t:textureAtlas/effect.atlas:3060:application/unknown
 i:textureAtlas/effect.png:514738:image/png
-t:textureAtlas/event.atlas:1273:application/unknown
-i:textureAtlas/event.png:180555:image/png
+t:textureAtlas/event.atlas:1272:application/unknown
+i:textureAtlas/event.png:156821:image/png
 t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png
