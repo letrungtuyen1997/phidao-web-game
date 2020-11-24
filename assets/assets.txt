@@ -77,8 +77,8 @@ b:textureAtlas/.DS_Store:6148:application/unknown
 i:textureAtlas/bgload.png:1192691:image/png
 t:textureAtlas/effect.atlas:3060:application/unknown
 i:textureAtlas/effect.png:514738:image/png
-t:textureAtlas/event.atlas:1272:application/unknown
-i:textureAtlas/event.png:156821:image/png
+t:textureAtlas/event.atlas:1273:application/unknown
+i:textureAtlas/event.png:173566:image/png
 t:textureAtlas/image.atlas:1929:application/unknown
 t:textureAtlas/image.json:1169:application/unknown
 i:textureAtlas/image.png:10907:image/png

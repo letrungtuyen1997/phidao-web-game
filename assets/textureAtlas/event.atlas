@@ -6,85 +6,85 @@ filter: Nearest,Nearest
 repeat: none
 btn1
   rotate: false
-  xy: 1551, 1977
+  xy: 1426, 1914
   size: 300, 67
   orig: 300, 67
   offset: 0, 0
   index: -1
 btn1On
   rotate: false
-  xy: 1551, 1908
+  xy: 1426, 1845
   size: 300, 67
   orig: 300, 67
   offset: 0, 0
   index: -1
 btn2
   rotate: false
-  xy: 2, 2
+  xy: 704, 1566
   size: 300, 67
   orig: 300, 67
   offset: 0, 0
   index: -1
 btn2On
   rotate: false
-  xy: 829, 1556
+  xy: 2, 55
   size: 300, 67
   orig: 300, 67
   offset: 0, 0
   index: -1
 frmTime
   rotate: false
-  xy: 1853, 1993
+  xy: 2, 2
   size: 105, 51
   orig: 105, 51
   offset: 0, 0
   index: -1
 iconComming
   rotate: false
-  xy: 2, 71
+  xy: 704, 1635
   size: 388, 64
   orig: 388, 64
   offset: 0, 0
   index: -1
 noticeEvent
   rotate: false
-  xy: 636, 734
+  xy: 1094, 1641
   size: 157, 58
   orig: 157, 58
   offset: 0, 0
   index: -1
 noticeRule
   rotate: false
-  xy: 392, 77
+  xy: 1728, 1923
   size: 139, 58
   orig: 139, 58
   offset: 0, 0
   index: -1
 titleBody
   rotate: false
-  xy: 2, 137
+  xy: 2, 263
   size: 632, 655
   orig: 632, 655
   offset: 0, 0
   index: -1
 titleHeader
   rotate: false
-  xy: 829, 1625
+  xy: 2, 124
   size: 632, 137
   orig: 632, 137
   offset: 0, 0
   index: -1
 topbanner
   rotate: false
-  xy: 829, 1764
+  xy: 704, 1701
   size: 720, 280
   orig: 720, 280
   offset: 0, 0
   index: -1
 tuto
   rotate: false
-  xy: 2, 794
-  size: 825, 1250
-  orig: 825, 1250
+  xy: 2, 920
+  size: 700, 1061
+  orig: 700, 1061
   offset: 0, 0
   index: -1

@@ -63,6 +63,8 @@
     <!-- TODO: Add SDKs for Firebase products that you want to use
      https://firebase.google.com/docs/web/setup#available-libraries -->
   <script src="https://www.gstatic.com/firebasejs/7.16.0/firebase-analytics.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js"></script>
+
   
 <!-- fire base SDKDK  -->
 
@@ -82,6 +84,40 @@
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
   firebase.analytics();
+  
+  // tracking event them luot game /////
+  function trackEventThemLuot(){
+    firebase.analytics().logEvent('code_initiate');
+  }
+  // tracking event nhap ma game /////
+  function trackEventNhapMa(){
+    firebase.analytics().logEvent('code_fill');
+  }
+  // tracking event nhap ma thanh cong /////
+  function trackEventNhapMaComplete(){
+    firebase.analytics().logEvent('code_complete');
+  }
+  // tracking event bat dau game thanh cong /////
+  function trackEventStart(){
+    firebase.analytics().logEvent('game_start_click');
+  }
+  // tracking event phong phi tieu thanh cong /////
+  function trackEventDart(){
+    firebase.analytics().logEvent('game_dart_click');
+  }
+  // tracking event tiep tuc game /////
+  function trackEventContinue(){
+    firebase.analytics().logEvent('game_continue');
+  }
+  // tracking event xem list qua game /////
+  function trackEventPresentBar(){
+    firebase.analytics().logEvent('menubar_present_click');
+  }
+  // tracking event xem su kien game /////
+  function trackEventEventBar(){
+    firebase.analytics().logEvent('menubar_event_click');
+  }
+  
 </script>
   <!-- get token in web -->
   <script>
