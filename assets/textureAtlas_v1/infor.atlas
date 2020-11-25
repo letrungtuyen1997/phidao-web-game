@@ -13,42 +13,42 @@ avatar
   index: -1
 btn1
   rotate: false
-  xy: 690, 1345
+  xy: 1292, 1939
   size: 214, 82
   orig: 214, 82
   offset: 0, 0
   index: -1
 btn1Off
   rotate: false
-  xy: 1508, 1939
+  xy: 1724, 1939
   size: 214, 82
   orig: 214, 82
   offset: 0, 0
   index: -1
 btn2
   rotate: false
-  xy: 1724, 1939
+  xy: 690, 1345
   size: 214, 82
   orig: 214, 82
   offset: 0, 0
   index: -1
 btn2Off
   rotate: false
-  xy: 1292, 1939
+  xy: 690, 1177
   size: 214, 82
   orig: 214, 82
   offset: 0, 0
   index: -1
 btn3
   rotate: false
-  xy: 690, 1261
+  xy: 1508, 1939
   size: 214, 82
   orig: 214, 82
   offset: 0, 0
   index: -1
 btn3Off
   rotate: false
-  xy: 690, 1177
+  xy: 690, 1261
   size: 214, 82
   orig: 214, 82
   offset: 0, 0

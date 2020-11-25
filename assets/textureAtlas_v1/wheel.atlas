@@ -95,7 +95,7 @@ arrow
   orig: 91, 147
   offset: 0, 0
   index: -1
-bg3
+bg
   rotate: false
   xy: 1210, 766
   size: 720, 1280
@@ -328,146 +328,139 @@ wheel20
   index: -1
 
 wheel2.png
-size: 1024,2048
+size: 2048,256
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
 100k-rw
   rotate: false
-  xy: 2, 347
+  xy: 518, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 10k
   rotate: false
-  xy: 724, 1436
+  xy: 227, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 15Tr
   rotate: false
-  xy: 518, 354
+  xy: 399, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 15Tr-rw
   rotate: false
-  xy: 2, 198
+  xy: 1292, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 200k
   rotate: false
-  xy: 724, 1338
+  xy: 485, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 20k
   rotate: false
-  xy: 518, 452
+  xy: 184, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 20k-rw
   rotate: false
-  xy: 2, 496
+  xy: 2, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 500k
   rotate: false
-  xy: 45, 100
+  xy: 313, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 50k-rw
   rotate: false
-  xy: 724, 1778
+  xy: 260, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 5Tr
   rotate: false
-  xy: 2, 100
+  xy: 98, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 5Tr-rw
   rotate: false
-  xy: 260, 347
+  xy: 1550, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Ip11
   rotate: false
-  xy: 2, 2
+  xy: 270, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Matluot
   rotate: false
-  xy: 303, 249
+  xy: 356, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Matluot-rw
   rotate: false
-  xy: 724, 1629
+  xy: 1034, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Tv
   rotate: false
-  xy: 260, 249
+  xy: 141, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
 Tv-rw
   rotate: false
-  xy: 260, 496
+  xy: 776, 100
   size: 256, 147
   orig: 256, 147
   offset: 0, 0
   index: -1
 Vtvcab
   rotate: false
-  xy: 561, 452
+  xy: 442, 2
   size: 41, 96
   orig: 41, 96
   offset: 0, 0
   index: -1
-bg
-  rotate: false
-  xy: 2, 645
-  size: 720, 1280
-  orig: 720, 1280
-  offset: 0, 0
-  index: -1
 btnMission
   rotate: false
-  xy: 518, 550
+  xy: 2, 5
   size: 94, 93
   orig: 94, 93
   offset: 0, 0
   index: -1
 btnRule
   rotate: false
-  xy: 724, 1534
+  xy: 1808, 154
   size: 94, 93
   orig: 94, 93
   offset: 0, 0

@@ -13,7 +13,7 @@ btnDetail
   index: -1
 btnFnOff
   rotate: false
-  xy: 2, 178
+  xy: 690, 1432
   size: 214, 69
   orig: 214, 69
   offset: 0, 0
@@ -34,7 +34,7 @@ btnInput
   index: -1
 btnJoinOff
   rotate: false
-  xy: 690, 1432
+  xy: 2, 178
   size: 214, 69
   orig: 214, 69
   offset: 0, 0
