@@ -18,9 +18,9 @@ cursor
   orig: 4, 60
   offset: 0, 0
   index: -1
-default_btn_keyboard_key_normal
+default_btn_popup_key
   rotate: false
-  xy: 20, 318
+  xy: 72, 338
   size: 50, 74
   split: 9, 9, 11, 12
   pad: 0, 0, 0, 0
@@ -29,14 +29,14 @@ default_btn_keyboard_key_normal
   index: -1
 default_btn_special_key_normal
   rotate: false
-  xy: 20, 318
+  xy: 20, 394
   size: 50, 74
   split: 9, 9, 11, 12
   pad: 0, 0, 0, 0
   orig: 50, 74
   offset: 0, 0
   index: -1
-default_btn_popup_key
+default_btn_keyboard_key_normal
   rotate: false
   xy: 20, 394
   size: 50, 74
@@ -47,7 +47,7 @@ default_btn_popup_key
   index: -1
 default_btn_special_key_pressed
   rotate: false
-  xy: 72, 338
+  xy: 20, 318
   size: 50, 74
   split: 9, 9, 11, 12
   pad: 0, 0, 0, 0
@@ -56,7 +56,7 @@ default_btn_special_key_pressed
   index: -1
 default_btn_keyboard_key_pressed
   rotate: false
-  xy: 72, 338
+  xy: 20, 318
   size: 50, 74
   split: 9, 9, 11, 12
   pad: 0, 0, 0, 0
