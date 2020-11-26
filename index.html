@@ -27,13 +27,16 @@
 
 <body >
   <!-- <button id="btnback">btn</button> -->
-  <button   id="btnback" type="submit" style="background-color:transparent; border-color:transparent;">
+  <button   id="btnback" type="submit" style=" float: left; display: none; background-color:transparent; border-color:transparent;  padding-left: 30px;">
     <img src="./btnBack.png" height="35"/>
   </button>
   <script>
     $('#btnback').click(function(){
       window.location.href="mega1://back";
     })
+    setTimeout(function(){
+      $('#btnback').css("display", "block");
+    },2000)
   </script>
   <style>
     body{
