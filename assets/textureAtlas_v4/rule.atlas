@@ -4,37 +4,37 @@ size: 2048,2048
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-bg2
-  rotate: false
-  xy: 724, 360
-  size: 720, 1280
-  orig: 720, 1280
-  offset: 0, 0
-  index: -1
-rule3
-  rotate: false
-  xy: 2, 2
-  size: 720, 1638
-  orig: 720, 1638
-  offset: 0, 0
-  index: -1
-
-rule2.png
-size: 2048,1024
-format: RGBA8888
-filter: Nearest,Nearest
-repeat: none
 rule1
   rotate: false
-  xy: 2, 2
-  size: 720, 929
-  orig: 720, 929
+  xy: 754, 932
+  size: 750, 928
+  orig: 750, 928
   offset: 0, 0
   index: -1
 rule2
   rotate: false
-  xy: 724, 2
-  size: 720, 929
-  orig: 720, 929
+  xy: 754, 2
+  size: 750, 928
+  orig: 750, 928
+  offset: 0, 0
+  index: -1
+rule3
+  rotate: false
+  xy: 2, 76
+  size: 750, 1784
+  orig: 750, 1784
+  offset: 0, 0
+  index: -1
+
+rule2.png
+size: 1024,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 720, 1280
+  orig: 720, 1280
   offset: 0, 0
   index: -1
