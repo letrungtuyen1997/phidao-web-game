@@ -1,5 +1,4 @@
 d:assets:0:application/unknown
-b:.DS_Store:10244:application/unknown
 i:avatar.png:53658:image/png
 i:badlogic.jpg:68465:image/jpeg
 d:data:0:application/unknown
@@ -73,7 +72,6 @@ a:sound/unlock.mp3:15476:application/unknown
 a:sound/unlock2.mp3:35570:application/unknown
 a:sound/wheel_sound.mp3:604:application/unknown
 d:textureAtlas_v4:0:application/unknown
-b:textureAtlas_v4/.DS_Store:6148:application/unknown
 i:textureAtlas_v4/bgload.png:1192691:image/png
 t:textureAtlas_v4/effect.atlas:3060:application/unknown
 i:textureAtlas_v4/effect.png:514738:image/png
